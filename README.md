@@ -1,2 +1,2 @@
-# Customer-Segmentation with RFM score and K-Mean algorithm
+# Customer-Segmentation with RFM score and K-Means algorithm
 
